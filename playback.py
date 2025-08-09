@@ -1,3 +1,3 @@
 sentence = input()
-result = sentence.replace(' ', '...')
+result = sentence.replace(" ", "...")
 print(result)
